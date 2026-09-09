@@ -11,8 +11,8 @@ except ImportError:
     CopyTextButton = None
 
 # === CONFIGURATION ===
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-GROUP_ID = YOUR_CHAT_ID_HERE
+BOT_TOKEN = "8633527371:AAF67xsehXlmKtGd0UgYC1w_zNbAORImMnk"
+GROUP_ID = -1004324141076
 API_URL = "https://numberpanel.tech/api/otp?count=200"
 POLL_INTERVAL = 10  # Seconds between API checks
 
